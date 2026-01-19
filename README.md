@@ -18,6 +18,12 @@ Fokus pengembangan project ini ada pada penyesuaian struktur, tampilan, dan inte
 - Bootstrap 5
 - PHP (Backend)
 
+## 📄 Sumber Template
+Tampilan dashboard pada project ini menggunakan template open-source berbasis Bootstrap 5 yang diperoleh dari:
+https://therichpost.com/free-inventory-management-admin-dashboard-template-9-bootstrap-5/
+
+Template digunakan sebagai dasar tampilan (UI), sedangkan pengembangan sistem, alur aplikasi, dan integrasi backend dikembangkan secara mandiri.
+
 ## 👨‍💻 Pengembangan
 Project ini dikembangkan dan dimodifikasi secara mandiri untuk keperluan tugas dan pembelajaran.  
 Riwayat contributor pada repository berasal dari histori source awal yang digunakan sebagai referensi.
